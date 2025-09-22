@@ -1,0 +1,23 @@
+body{
+	background-color: black;
+}
+h1{
+	color: white;
+	font-family: sans-serif;
+}
+
+.opmaakpagina{
+	width: 50%;
+	margin-left: 25%;
+	margin-top: 20px;
+
+.witte-rand {
+  border: 5px solid white; 
+  border-radius: 15px;
+
+}
+
+}
+img{
+	width: 100%;
+}
